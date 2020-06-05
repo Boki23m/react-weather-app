@@ -3,3 +3,6 @@
 
 A simple weather app that allows you to get current weather information, based on the city you enter.
 
+[Live Demo](https://boki23m.github.io/react-weather-app/)
+
+![screenshot](./src/assets/images/Capture01.jpg)
