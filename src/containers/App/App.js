@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-
 import { MoonLoader } from 'react-spinners';
-
 import classes from './App.module.css';
 import assetMapping from '../../assets/assetMapping.json';
 import Card from '../../elements/Card/Card';
